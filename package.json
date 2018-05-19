@@ -1,0 +1,15 @@
+{
+  "name": "simple-uploader",
+  "version": "1.0.0",
+  "description": "Simple NodeJS file uploader (Azure WebApp ZipPushDeploy ready)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Safeer Hussain",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
